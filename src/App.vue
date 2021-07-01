@@ -1,8 +1,11 @@
 <template>
   <div id="app">
     <div id="nav">
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
+      <router-link to="/">选项卡组件</router-link> |
+      <router-link to="/about">拖拽组件</router-link> |
+      <router-link to="/snake">贪食蛇</router-link>|
+      <router-link to="/pagination">分页组件</router-link>|
+      <router-link to="/virtualListPage">虚拟列表</router-link>
     </div>
     <router-view/>
   </div>

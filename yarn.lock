@@ -2690,6 +2690,11 @@ core-js-compat@^3.14.0, core-js-compat@^3.15.0, core-js-compat@^3.6.5:
     browserslist "^4.16.6"
     semver "7.0.0"
 
+core-js@^3.15.2:
+  version "3.15.2"
+  resolved "https://registry.nlark.com/core-js/download/core-js-3.15.2.tgz?cache=0&sync_timestamp=1624966012065&other_urls=https%3A%2F%2Fregistry.nlark.com%2Fcore-js%2Fdownload%2Fcore-js-3.15.2.tgz#740660d2ff55ef34ce664d7e2455119c5bdd3d61"
+  integrity sha1-dAZg0v9V7zTOZk1+JFURnFvdPWE=
+
 core-js@^3.6.5:
   version "3.15.1"
   resolved "https://registry.nlark.com/core-js/download/core-js-3.15.1.tgz?cache=0&sync_timestamp=1624386755249&other_urls=https%3A%2F%2Fregistry.nlark.com%2Fcore-js%2Fdownload%2Fcore-js-3.15.1.tgz#6c08ab88abdf56545045ccf5fd81f47f407e7f1a"
@@ -4567,6 +4572,11 @@ internal-ip@^4.3.0:
     default-gateway "^4.2.0"
     ipaddr.js "^1.9.0"
 
+intersection-observer@^0.12.0:
+  version "0.12.0"
+  resolved "https://registry.yarnpkg.com/intersection-observer/-/intersection-observer-0.12.0.tgz#6c84628f67ce8698e5f9ccf857d97718745837aa"
+  integrity sha512-2Vkz8z46Dv401zTWudDGwO7KiGHNDkMv417T5ItcNYfmvHR/1qCTVBO9vwH8zZmQ0WkA/1ARwpysR9bsnop4NQ==
+
 ip-regex@^2.1.0:
   version "2.1.0"
   resolved "https://registry.npm.taobao.org/ip-regex/download/ip-regex-2.1.0.tgz#fa78bf5d2e6913c911ce9f819ee5146bb6d844e9"
@@ -5552,6 +5562,27 @@ nice-try@^1.0.4:
   version "1.0.5"
   resolved "https://registry.npm.taobao.org/nice-try/download/nice-try-1.0.5.tgz?cache=0&sync_timestamp=1614510157805&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fnice-try%2Fdownload%2Fnice-try-1.0.5.tgz#a3378a7696ce7d223e88fc9b764bd7ef1089e366"
   integrity sha1-ozeKdpbOfSI+iPybdkvX7xCJ42Y=
+
+nigo-vue-drag@^1.1.3:
+  version "1.1.3"
+  resolved "https://registry.nlark.com/nigo-vue-drag/download/nigo-vue-drag-1.1.3.tgz#ad007ceac099385c36a2973939278589f0e74433"
+  integrity sha1-rQB86sCZOFw2opc5OSeFifDnRDM=
+  dependencies:
+    vue "^2.5.11"
+
+nigo-vue-pagination@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/nigo-vue-pagination/-/nigo-vue-pagination-1.0.2.tgz#5bdf49d6fc3ba393c5514e1f5feb242a84ef92c8"
+  integrity sha512-cSZbtVNsTw7v2J3xI1bqcvfIfTKHOrePqo/KRLI9x7ub5I2MaA0MP06UHeKmptC/lRZLZieeDkx6EVphgy+hkw==
+  dependencies:
+    vue "^2.5.11"
+
+nigo-vue-tab@^1.1.1:
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/nigo-vue-tab/-/nigo-vue-tab-1.1.1.tgz#9b5a1e7643c66fc376c7e018c43e9828d40e2b71"
+  integrity sha512-yzgtjb4gyvZkKCsHEd3vPjSuRXmuJ+hd6WpjIvhyCZj/xYauIzHqVaBzyS7sHNOfphiaNnfcLPVwG75+9ycP9g==
+  dependencies:
+    vue "^2.5.11"
 
 no-case@^2.2.0:
   version "2.3.2"
@@ -8133,7 +8164,7 @@ vue-template-es2015-compiler@^1.9.0:
   resolved "https://registry.npm.taobao.org/vue-template-es2015-compiler/download/vue-template-es2015-compiler-1.9.1.tgz#1ee3bc9a16ecbf5118be334bb15f9c46f82f5825"
   integrity sha1-HuO8mhbsv1EYvjNLsV+cRvgvWCU=
 
-vue@^2.6.11:
+vue@^2.5.11, vue@^2.6.11:
   version "2.6.14"
   resolved "https://registry.nlark.com/vue/download/vue-2.6.14.tgz#e51aa5250250d569a3fbad3a8a5a687d6036e235"
   integrity sha1-5RqlJQJQ1Wmj+606ilpofWA24jU=
